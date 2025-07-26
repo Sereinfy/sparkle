@@ -21,8 +21,8 @@ if (process.env.SKIP_PREPARE === '1') {
 
 /* ======= mihomo alpha======= */
 const MIHOMO_ALPHA_VERSION_URL =
-  'https://github.com/MetaCubeX/mihomo/releases/download/Prerelease-Alpha/version.txt'
-const MIHOMO_ALPHA_URL_PREFIX = `https://github.com/MetaCubeX/mihomo/releases/download/Prerelease-Alpha`
+  'https://github.com/vernesong/mihomo/releases/download/Prerelease-Alpha/version.txt'
+const MIHOMO_ALPHA_URL_PREFIX = `https://github.com/vernesong/mihomo/releases/download/Prerelease-Alpha`
 let MIHOMO_ALPHA_VERSION
 
 const MIHOMO_ALPHA_MAP = {
